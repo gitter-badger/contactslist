@@ -1,5 +1,6 @@
 General Information
 ============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/markusguenther/contactslist?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Contactslist is an extension for the CMS TYPO3. 
 
